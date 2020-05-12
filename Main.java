@@ -100,6 +100,7 @@ public class ProyectoIntegrador {
 
             switch (operador2) {
                 case 1:
+                showInputDialog("das")
             }
         }
     }
